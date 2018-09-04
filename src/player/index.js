@@ -58,7 +58,7 @@ let iconStyle = { width: "fit-content" },
           type: "volume",
           style: {
             margin: "2px",
-            width: "15%",
+            width: "80px",
             textOverflow: "ellipsis",
             textAlign: "right !important"
           }
@@ -67,7 +67,7 @@ let iconStyle = { width: "fit-content" },
           type: "time",
           style: {
             margin: "2px",
-            width: "30%",
+            width: "8%",
             textOverflow: "ellipsis",
             textAlign: "right !important",
             position: "relative"
